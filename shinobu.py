@@ -22,4 +22,3 @@ print("""
  / __| '_ \| | '_ \ / _ \| '_ \| | | |
  \__ \ | | | | | | | (_) | |_) | |_| |
  |___/_| |_|_|_| |_|\___/|_.__/ \__,_|""")
-input("thank you for choosing shinobu on your computer :) we will never forget. programmed by dominic")
